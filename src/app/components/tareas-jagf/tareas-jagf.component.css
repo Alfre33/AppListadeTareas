@@ -1,0 +1,15 @@
+.container{
+    /* background-image:url('../../../assets/img/FondoTareas.jpeg'); */
+    /* height:100vh; */
+}
+
+.toDo{
+    background-color: #3b4344;
+    opacity:80%;
+    color: #fff;
+    font-size:18px;
+    font-weight:bold;
+    display: flex;
+    justify-content:space-between;
+    border:1px solid #fff;
+}
